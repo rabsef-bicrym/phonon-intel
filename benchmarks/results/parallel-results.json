@@ -1,0 +1,194 @@
+[
+  {
+    "load_seconds": 1.814561074017547,
+    "inference_seconds": 1.1109358849935234,
+    "text_sha256": "e29e8b4112ccff33e895789e2cba4fad4df4f737e7cec97e70116dcd5ea209ab",
+    "words_sha256": "405c57205c51832c5c5f609050a27112a0d01d336a01e5aa7502658dc94265d4",
+    "peak_rss_bytes": 977793024,
+    "python_torch_imported": false,
+    "engine": "native",
+    "length": "short",
+    "repeat": 0,
+    "process_s": 3.2626275549991988
+  },
+  {
+    "load_seconds": 1.192574020999018,
+    "inference_seconds": 1.1347447730368003,
+    "text_sha256": "e29e8b4112ccff33e895789e2cba4fad4df4f737e7cec97e70116dcd5ea209ab",
+    "words_sha256": "405c57205c51832c5c5f609050a27112a0d01d336a01e5aa7502658dc94265d4",
+    "peak_rss_bytes": 983117824,
+    "python_torch_imported": false,
+    "engine": "parallel",
+    "length": "short",
+    "repeat": 0,
+    "process_s": 2.6759230039897375
+  },
+  {
+    "text_sha256": "8ed937a6614e99dfca8f59b9145e3f29aefd9e97124df46fb8cd3623af3feaa0",
+    "peak_rss_bytes": 298516480,
+    "engine": "whisper",
+    "length": "short",
+    "repeat": 0,
+    "process_s": 2.7714068650384434
+  },
+  {
+    "load_seconds": 1.7926810429780744,
+    "inference_seconds": 11.786849161959253,
+    "text_sha256": "73dba31f09e50b154844ae4def30bc5afb6ccdc7caf0bc606ab676401091f771",
+    "words_sha256": "fcb2a814b0b82eec9545f7fbebc3658c2593fa6642e3a822071c795fad19ba2b",
+    "peak_rss_bytes": 1197539328,
+    "python_torch_imported": false,
+    "engine": "native",
+    "length": "long",
+    "repeat": 0,
+    "process_s": 13.922048811975401
+  },
+  {
+    "load_seconds": 1.1930921250022948,
+    "inference_seconds": 11.918593976006377,
+    "text_sha256": "73dba31f09e50b154844ae4def30bc5afb6ccdc7caf0bc606ab676401091f771",
+    "words_sha256": "fcb2a814b0b82eec9545f7fbebc3658c2593fa6642e3a822071c795fad19ba2b",
+    "peak_rss_bytes": 1201905664,
+    "python_torch_imported": false,
+    "engine": "parallel",
+    "length": "long",
+    "repeat": 0,
+    "process_s": 13.464375817973632
+  },
+  {
+    "text_sha256": "4c2fd2038ae9ef3253ebfaa0991bab2b325a4864e812f57b696443eb60dfa275",
+    "peak_rss_bytes": 515825664,
+    "engine": "whisper",
+    "length": "long",
+    "repeat": 0,
+    "process_s": 19.004395210009534
+  },
+  {
+    "load_seconds": 1.1934916530153714,
+    "inference_seconds": 1.1424780579982325,
+    "text_sha256": "e29e8b4112ccff33e895789e2cba4fad4df4f737e7cec97e70116dcd5ea209ab",
+    "words_sha256": "405c57205c51832c5c5f609050a27112a0d01d336a01e5aa7502658dc94265d4",
+    "peak_rss_bytes": 982241280,
+    "python_torch_imported": false,
+    "engine": "parallel",
+    "length": "short",
+    "repeat": 1,
+    "process_s": 2.675780556979589
+  },
+  {
+    "text_sha256": "8ed937a6614e99dfca8f59b9145e3f29aefd9e97124df46fb8cd3623af3feaa0",
+    "peak_rss_bytes": 298516480,
+    "engine": "whisper",
+    "length": "short",
+    "repeat": 1,
+    "process_s": 2.7836048280005343
+  },
+  {
+    "load_seconds": 1.7954713870421983,
+    "inference_seconds": 1.1566266959998757,
+    "text_sha256": "e29e8b4112ccff33e895789e2cba4fad4df4f737e7cec97e70116dcd5ea209ab",
+    "words_sha256": "405c57205c51832c5c5f609050a27112a0d01d336a01e5aa7502658dc94265d4",
+    "peak_rss_bytes": 978419712,
+    "python_torch_imported": false,
+    "engine": "native",
+    "length": "short",
+    "repeat": 1,
+    "process_s": 3.2842113240039907
+  },
+  {
+    "load_seconds": 1.1962502280366607,
+    "inference_seconds": 11.97428998403484,
+    "text_sha256": "73dba31f09e50b154844ae4def30bc5afb6ccdc7caf0bc606ab676401091f771",
+    "words_sha256": "fcb2a814b0b82eec9545f7fbebc3658c2593fa6642e3a822071c795fad19ba2b",
+    "peak_rss_bytes": 1202106368,
+    "python_torch_imported": false,
+    "engine": "parallel",
+    "length": "long",
+    "repeat": 1,
+    "process_s": 13.526234506978653
+  },
+  {
+    "text_sha256": "4c2fd2038ae9ef3253ebfaa0991bab2b325a4864e812f57b696443eb60dfa275",
+    "peak_rss_bytes": 515780608,
+    "engine": "whisper",
+    "length": "long",
+    "repeat": 1,
+    "process_s": 18.913101307989564
+  },
+  {
+    "load_seconds": 1.7849160729674622,
+    "inference_seconds": 12.011961721989792,
+    "text_sha256": "73dba31f09e50b154844ae4def30bc5afb6ccdc7caf0bc606ab676401091f771",
+    "words_sha256": "fcb2a814b0b82eec9545f7fbebc3658c2593fa6642e3a822071c795fad19ba2b",
+    "peak_rss_bytes": 1197600768,
+    "python_torch_imported": false,
+    "engine": "native",
+    "length": "long",
+    "repeat": 1,
+    "process_s": 14.145172688004095
+  },
+  {
+    "text_sha256": "8ed937a6614e99dfca8f59b9145e3f29aefd9e97124df46fb8cd3623af3feaa0",
+    "peak_rss_bytes": 298504192,
+    "engine": "whisper",
+    "length": "short",
+    "repeat": 2,
+    "process_s": 2.7915721340104938
+  },
+  {
+    "load_seconds": 1.7882540170103312,
+    "inference_seconds": 1.144438901974354,
+    "text_sha256": "e29e8b4112ccff33e895789e2cba4fad4df4f737e7cec97e70116dcd5ea209ab",
+    "words_sha256": "405c57205c51832c5c5f609050a27112a0d01d336a01e5aa7502658dc94265d4",
+    "peak_rss_bytes": 978092032,
+    "python_torch_imported": false,
+    "engine": "native",
+    "length": "short",
+    "repeat": 2,
+    "process_s": 3.2661550639895722
+  },
+  {
+    "load_seconds": 1.1940812920220196,
+    "inference_seconds": 1.1448987579788081,
+    "text_sha256": "e29e8b4112ccff33e895789e2cba4fad4df4f737e7cec97e70116dcd5ea209ab",
+    "words_sha256": "405c57205c51832c5c5f609050a27112a0d01d336a01e5aa7502658dc94265d4",
+    "peak_rss_bytes": 982519808,
+    "python_torch_imported": false,
+    "engine": "parallel",
+    "length": "short",
+    "repeat": 2,
+    "process_s": 2.677533044014126
+  },
+  {
+    "text_sha256": "4c2fd2038ae9ef3253ebfaa0991bab2b325a4864e812f57b696443eb60dfa275",
+    "peak_rss_bytes": 515866624,
+    "engine": "whisper",
+    "length": "long",
+    "repeat": 2,
+    "process_s": 19.107527520041913
+  },
+  {
+    "load_seconds": 1.7966054010321386,
+    "inference_seconds": 12.187245638051536,
+    "text_sha256": "73dba31f09e50b154844ae4def30bc5afb6ccdc7caf0bc606ab676401091f771",
+    "words_sha256": "fcb2a814b0b82eec9545f7fbebc3658c2593fa6642e3a822071c795fad19ba2b",
+    "peak_rss_bytes": 1197715456,
+    "python_torch_imported": false,
+    "engine": "native",
+    "length": "long",
+    "repeat": 2,
+    "process_s": 14.33545927098021
+  },
+  {
+    "load_seconds": 1.1939249800052494,
+    "inference_seconds": 12.129726674000267,
+    "text_sha256": "73dba31f09e50b154844ae4def30bc5afb6ccdc7caf0bc606ab676401091f771",
+    "words_sha256": "fcb2a814b0b82eec9545f7fbebc3658c2593fa6642e3a822071c795fad19ba2b",
+    "peak_rss_bytes": 1201819648,
+    "python_torch_imported": false,
+    "engine": "parallel",
+    "length": "long",
+    "repeat": 2,
+    "process_s": 13.680213502026163
+  }
+]

@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.dylib
+*.so
+intel_macos/build/
+models/
+*.wav
+*.ogg
+*.flac
+*.fermion
+*.zst
+benchmark-results.json
+.DS_Store

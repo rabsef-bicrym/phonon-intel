@@ -1,0 +1,122 @@
+[
+  {
+    "load_seconds": 1.7843208640115336,
+    "inference_seconds": 1.1397455270052887,
+    "text_sha256": "e29e8b4112ccff33e895789e2cba4fad4df4f737e7cec97e70116dcd5ea209ab",
+    "words_sha256": "405c57205c51832c5c5f609050a27112a0d01d336a01e5aa7502658dc94265d4",
+    "peak_rss_bytes": 982478848,
+    "python_torch_imported": false,
+    "engine": "candidate",
+    "length": "short",
+    "repeat": 0,
+    "process_s": 3.333878603996709
+  },
+  {
+    "text_sha256": "8ed937a6614e99dfca8f59b9145e3f29aefd9e97124df46fb8cd3623af3feaa0",
+    "peak_rss_bytes": 298463232,
+    "engine": "whisper",
+    "length": "short",
+    "repeat": 0,
+    "process_s": 2.8517448939965107
+  },
+  {
+    "load_seconds": 1.197755234024953,
+    "inference_seconds": 11.945587193011306,
+    "text_sha256": "73dba31f09e50b154844ae4def30bc5afb6ccdc7caf0bc606ab676401091f771",
+    "words_sha256": "fcb2a814b0b82eec9545f7fbebc3658c2593fa6642e3a822071c795fad19ba2b",
+    "peak_rss_bytes": 1202413568,
+    "python_torch_imported": false,
+    "engine": "candidate",
+    "length": "long",
+    "repeat": 0,
+    "process_s": 13.498925013991538
+  },
+  {
+    "text_sha256": "4c2fd2038ae9ef3253ebfaa0991bab2b325a4864e812f57b696443eb60dfa275",
+    "peak_rss_bytes": 515883008,
+    "engine": "whisper",
+    "length": "long",
+    "repeat": 0,
+    "process_s": 18.994530969008338
+  },
+  {
+    "text_sha256": "8ed937a6614e99dfca8f59b9145e3f29aefd9e97124df46fb8cd3623af3feaa0",
+    "peak_rss_bytes": 298545152,
+    "engine": "whisper",
+    "length": "short",
+    "repeat": 1,
+    "process_s": 2.807735030015465
+  },
+  {
+    "load_seconds": 1.1863757040118799,
+    "inference_seconds": 1.1629948089830577,
+    "text_sha256": "e29e8b4112ccff33e895789e2cba4fad4df4f737e7cec97e70116dcd5ea209ab",
+    "words_sha256": "405c57205c51832c5c5f609050a27112a0d01d336a01e5aa7502658dc94265d4",
+    "peak_rss_bytes": 982274048,
+    "python_torch_imported": false,
+    "engine": "candidate",
+    "length": "short",
+    "repeat": 1,
+    "process_s": 2.684973218012601
+  },
+  {
+    "text_sha256": "4c2fd2038ae9ef3253ebfaa0991bab2b325a4864e812f57b696443eb60dfa275",
+    "peak_rss_bytes": 515833856,
+    "engine": "whisper",
+    "length": "long",
+    "repeat": 1,
+    "process_s": 18.90866765799001
+  },
+  {
+    "load_seconds": 1.1932638279977255,
+    "inference_seconds": 11.94357600301737,
+    "text_sha256": "73dba31f09e50b154844ae4def30bc5afb6ccdc7caf0bc606ab676401091f771",
+    "words_sha256": "fcb2a814b0b82eec9545f7fbebc3658c2593fa6642e3a822071c795fad19ba2b",
+    "peak_rss_bytes": 1202163712,
+    "python_torch_imported": false,
+    "engine": "candidate",
+    "length": "long",
+    "repeat": 1,
+    "process_s": 13.490466003015172
+  },
+  {
+    "load_seconds": 1.1930365480366163,
+    "inference_seconds": 1.1424906760221347,
+    "text_sha256": "e29e8b4112ccff33e895789e2cba4fad4df4f737e7cec97e70116dcd5ea209ab",
+    "words_sha256": "405c57205c51832c5c5f609050a27112a0d01d336a01e5aa7502658dc94265d4",
+    "peak_rss_bytes": 982257664,
+    "python_torch_imported": false,
+    "engine": "candidate",
+    "length": "short",
+    "repeat": 2,
+    "process_s": 2.6683791970135644
+  },
+  {
+    "text_sha256": "8ed937a6614e99dfca8f59b9145e3f29aefd9e97124df46fb8cd3623af3feaa0",
+    "peak_rss_bytes": 298504192,
+    "engine": "whisper",
+    "length": "short",
+    "repeat": 2,
+    "process_s": 2.885411204013508
+  },
+  {
+    "load_seconds": 1.198679530993104,
+    "inference_seconds": 11.91709850000916,
+    "text_sha256": "73dba31f09e50b154844ae4def30bc5afb6ccdc7caf0bc606ab676401091f771",
+    "words_sha256": "fcb2a814b0b82eec9545f7fbebc3658c2593fa6642e3a822071c795fad19ba2b",
+    "peak_rss_bytes": 1201618944,
+    "python_torch_imported": false,
+    "engine": "candidate",
+    "length": "long",
+    "repeat": 2,
+    "process_s": 13.465763763000723
+  },
+  {
+    "text_sha256": "4c2fd2038ae9ef3253ebfaa0991bab2b325a4864e812f57b696443eb60dfa275",
+    "peak_rss_bytes": 515837952,
+    "engine": "whisper",
+    "length": "long",
+    "repeat": 2,
+    "process_s": 19.04922617599368
+  }
+]
