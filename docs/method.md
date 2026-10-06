@@ -47,6 +47,12 @@ and 16-bit table entries, accumulating into 32-bit output sums. Small batches
 and tails use the direct-dot kernel. Restricting expansion to eligible matrices
 avoids the memory cost of building lookup layouts for every matrix.
 
+This adapts the vector-table idea from
+[Vec-LUT (Li et al., MobiSys 2026)](https://arxiv.org/html/2512.06443v2)
+to Phonon's five-valued weights. It is independently implemented, not an imported
+LLM runtime. The paper's reported speedups are not assumed to transfer here;
+the results in this repository come from our own complete-recording measurements.
+
 ## Decode the checkpoint once per process
 
 `p2_five_create` uses the 243-byte wire alphabet to precompute trit signs and

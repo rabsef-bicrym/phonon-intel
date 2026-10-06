@@ -22,6 +22,11 @@ Encoder tests use Hugging Face Transformers' Parakeet operators as an independen
 graph reference. `tests/reference.py` preserves the corresponding Python operator
 expressions for compatibility with the tested PyTorch 2.2.2 environment.
 
+The expansion-matrix lookup layout was inspired by
+[Vec-LUT (Li et al., MobiSys 2026)](https://arxiv.org/html/2512.06443v2).
+Our five-valued-weight adaptation is independently implemented; no code from
+the paper's LLM runtime is included. See [the method](method.md) for the boundary.
+
 The upstream NOTICE also describes upstream assets not included in this smaller
 repository. No model weights, third-party wheels, precompiled libraries, private
 recordings or private transcript text are distributed here.
